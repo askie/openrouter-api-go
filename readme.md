@@ -5,7 +5,7 @@ This library provides a Go client for interacting with the OpenRouter API. It al
 ## Installation
 
 ```bash
-go get https://github.com/askie/openrouter-api-go
+go get github.com/askie/openrouter-api-go
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ package main
 
 import (
 	"fmt"
-	"https://github.com/askie/openrouter-api-go"
+	"github.com/askie/openrouter-api-go"
 )
 
 func main() {
@@ -48,7 +48,7 @@ package main
 import (
 	"context"
 	"fmt"
-	"github.com/wojtesss/openrouter-api-go"
+	"github.com/askie/openrouter-api-go"
 )
 
 func main() {
