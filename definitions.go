@@ -61,6 +61,7 @@ const (
 	RoleSystem    MessageRole = "system"
 	RoleUser      MessageRole = "user"
 	RoleAssistant MessageRole = "assistant"
+	RoleTool      MessageRole = "tool"
 )
 
 // ContentPart represents the content part structure.
