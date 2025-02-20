@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	openrouterapigo "github.com/wojtess/openrouter-api-go"
+	openrouterapigo "github.com/askie/openrouter-api-go"
 )
 
 func TestFetchChatCompletions(t *testing.T) {
